@@ -1,0 +1,31 @@
+Projet de groupe 
+Création d'un outil de stockage de liens web
+
+Etape 1 : Benchmark
+
+I) Deskyo
+https://www.deskyo.com/
+
+II) Pocket 
+https://getpocket.com/
+	
+III) Raindrop
+https://raindrop.io/
+
+IV) Wallabag
+https://wallabag.org/
+
+Ces 4 outils de gestions de liens ont tous des points communs : 
+
+	• Navigation et interface agréable/simple et rapide à prendre en main
+	• Création d'un compte personnel 
+	• Accessibilité (responsive, déclinable sur divers supports)
+	• Proposition d'onglets personnalisés (thèmes recommandés..)
+	• Moteur de recherche intégré 
+	• Organisation claire et optimisée (Favoris/archives/articles/vidéos/images/labels...)
+	• Possibilité de partage (collaboration multi-utilisateurs possible)
+	• Ajout/suppression/édition des liens
+	 
+[Deskyo propose en plus une détection des doublons, ainsi qu'un bureau virtuel personnalisable, qui peut-être un petit plus pour l'expérience utilisateur.]
+
+
